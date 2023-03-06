@@ -175,6 +175,48 @@ build CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o: CXX_COMPILE
   OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
   OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Punteros
 
+build CMakeFiles/problemasProgramacion.dir/Archivos/problema1.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/problema1.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/problema1.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
+build CMakeFiles/problemasProgramacion.dir/Archivos/problema2.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/problema2.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/problema2.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
+build CMakeFiles/problemasProgramacion.dir/Archivos/problema3.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/problema3.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/problema3.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
+build CMakeFiles/problemasProgramacion.dir/Archivos/problema4.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/problema4.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/problema4.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
+build CMakeFiles/problemasProgramacion.dir/Archivos/problema5.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/problema5.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/problema5.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
+build CMakeFiles/problemasProgramacion.dir/Archivos/archivo1.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/archivo1.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/archivo1.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
+build CMakeFiles/problemasProgramacion.dir/Archivos/lecturaBinario.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Archivos/lecturaBinario.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Archivos/lecturaBinario.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Archivos
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target problemasProgramacion
@@ -183,7 +225,7 @@ build CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o: CXX_COMPILE
 #############################################
 # Link the executable problemasProgramacion
 
-build problemasProgramacion: CXX_EXECUTABLE_LINKER__problemasProgramacion_Debug CMakeFiles/problemasProgramacion.dir/main.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema5.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema6.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema7.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema8.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema9.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema10.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema11.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o
+build problemasProgramacion: CXX_EXECUTABLE_LINKER__problemasProgramacion_Debug CMakeFiles/problemasProgramacion.dir/main.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema5.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema6.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema7.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema8.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema9.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema10.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema11.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/problema5.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/archivo1.cpp.o CMakeFiles/problemasProgramacion.dir/Archivos/lecturaBinario.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
   POST_BUILD = :

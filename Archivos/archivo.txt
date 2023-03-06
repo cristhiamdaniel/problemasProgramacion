@@ -1,0 +1,13 @@
+El flujo de archivos en C++ se refiere a la forma en que los datos se transfieren entre un archivo en el disco y un programa en C++. Los flujos de archivos proporcionan una manera de trabajar con archivos en un programa y se utilizan para leer y escribir datos desde y hacia un archivo.
+
+En C++, hay dos tipos de flujos de archivos: el flujo de entrada (input stream) y el flujo de salida (output stream). El flujo de entrada se utiliza para leer datos de un archivo, mientras que el flujo de salida se utiliza para escribir datos en un archivo.
+
+Para trabajar con flujos de archivos en C++, es necesario incluir la biblioteca "fstream". Esta biblioteca proporciona las clases ifstream (para la entrada de archivos) y ofstream (para la salida de archivos).
+
+El flujo de archivos en C++ implica la apertura del archivo, la lectura o escritura de los datos y luego el cierre del archivo. El proceso general implica los siguientes pasos:
+
+    Incluir la biblioteca "fstream".
+    Declarar el objeto ifstream o ofstream, dependiendo de si se trata de un flujo de entrada o de salida.
+    Abrir el archivo utilizando la función open().
+    Leer o escribir los datos en el archivo utilizando los operadores << y >>.
+    Cerrar el archivo utilizando la función close().

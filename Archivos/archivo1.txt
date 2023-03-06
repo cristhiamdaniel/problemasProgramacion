@@ -1,0 +1,3 @@
+Un archivo de texto es un archivo que almacena los datos como una secuencia de caracteres en formato de texto plano.
+Es decir, los datos se almacenan como una serie de caracteres ASCII o Unicode que representan el contenido del archivo.
+Los archivos de texto se pueden leer y editar fácilmente con editores de texto como el Bloc de notas o el Vim.
