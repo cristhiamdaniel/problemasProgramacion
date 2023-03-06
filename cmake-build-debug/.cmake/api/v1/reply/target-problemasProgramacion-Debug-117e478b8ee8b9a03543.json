@@ -79,7 +79,9 @@
 				24,
 				25,
 				26,
-				27
+				27,
+				28,
+				29
 			]
 		}
 	],
@@ -139,7 +141,9 @@
 				24,
 				25,
 				26,
-				27
+				27,
+				28,
+				29
 			]
 		}
 	],
@@ -311,6 +315,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Archivos/lecturaBinario.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Archivos/problema6.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Archivos/problema7.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
