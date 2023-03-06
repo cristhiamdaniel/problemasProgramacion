@@ -121,6 +121,60 @@ build CMakeFiles/problemasProgramacion.dir/Arrays/problema11.cpp.o: CXX_COMPILER
   OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
   OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Arrays
 
+build CMakeFiles/problemasProgramacion.dir/Estructuras/problema1.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Estructuras/problema1.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Estructuras/problema1.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Estructuras
+
+build CMakeFiles/problemasProgramacion.dir/Estructuras/problema2.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Estructuras/problema2.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Estructuras/problema2.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Estructuras
+
+build CMakeFiles/problemasProgramacion.dir/Estructuras/problema3.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Estructuras/problema3.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Estructuras/problema3.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Estructuras
+
+build CMakeFiles/problemasProgramacion.dir/Estructuras/problema4.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Estructuras/problema4.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Estructuras/problema4.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Estructuras
+
+build CMakeFiles/problemasProgramacion.dir/Punteros/problema1.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Punteros/problema1.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Punteros/problema1.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Punteros
+
+build CMakeFiles/problemasProgramacion.dir/Punteros/problema2.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Punteros/problema2.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Punteros/problema2.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Punteros
+
+build CMakeFiles/problemasProgramacion.dir/Punteros/problema3.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Punteros/problema3.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Punteros/problema3.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Punteros
+
+build CMakeFiles/problemasProgramacion.dir/Punteros/problema4.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Punteros/problema4.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Punteros/problema4.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Punteros
+
+build CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o: CXX_COMPILER__problemasProgramacion_Debug /home/cristhiamdaniel/CLionProjects/problemasProgramacion/Punteros/problema5.cpp || cmake_object_order_depends_target_problemasProgramacion
+  DEP_FILE = CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++17
+  OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
+  OBJECT_FILE_DIR = CMakeFiles/problemasProgramacion.dir/Punteros
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target problemasProgramacion
@@ -129,7 +183,7 @@ build CMakeFiles/problemasProgramacion.dir/Arrays/problema11.cpp.o: CXX_COMPILER
 #############################################
 # Link the executable problemasProgramacion
 
-build problemasProgramacion: CXX_EXECUTABLE_LINKER__problemasProgramacion_Debug CMakeFiles/problemasProgramacion.dir/main.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema5.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema6.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema7.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema8.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema9.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema10.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema11.cpp.o
+build problemasProgramacion: CXX_EXECUTABLE_LINKER__problemasProgramacion_Debug CMakeFiles/problemasProgramacion.dir/main.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema5.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema6.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema7.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema8.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema9.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema10.cpp.o CMakeFiles/problemasProgramacion.dir/Arrays/problema11.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Estructuras/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema1.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema2.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema3.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema4.cpp.o CMakeFiles/problemasProgramacion.dir/Punteros/problema5.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/problemasProgramacion.dir
   POST_BUILD = :
