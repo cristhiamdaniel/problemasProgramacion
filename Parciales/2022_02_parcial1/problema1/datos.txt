@@ -1,0 +1,1 @@
+Hay dos formas de escribir programas sin errores; sólo la tercera funciona

@@ -1,0 +1,4 @@
+SUPLETORIO
+Maria 2.8
+Numero de examenes presentados: 1
+Nota promedio: 2.8

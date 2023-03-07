@@ -81,7 +81,13 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35
 			]
 		}
 	],
@@ -143,7 +149,13 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35
 			]
 		}
 	],
@@ -327,6 +339,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Archivos/problema7.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Parciales/2022_02_parcial1/problema1/leerDatos.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Parciales/2022_02_parcial1/problema1/leerDatos2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Parciales/2022_02_parcial1/problema1/encriptar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Parciales/2022_02_parcial1/problema1/guardarEncriptado.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Parciales/2022_02_parcial1/problema2/archivoBinario.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Parciales/2022_02_parcial1/problema2/archivosTexto.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

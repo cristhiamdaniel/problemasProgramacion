@@ -1,0 +1,5 @@
+INICIAL
+Roberto 3.5
+Yamile 4.6
+Numero de examenes presentados: 2
+Nota promedio: 4.05
